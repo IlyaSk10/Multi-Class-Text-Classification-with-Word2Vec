@@ -1,14 +1,16 @@
-Word2vec realization
-Structure:
+# Word2vec realization
 
-lib-preprocessing functions
 
-notebook-report
+**Structure:**
 
-results-input and output data
+**lib**-preprocessing functions
 
-word2vec_script.py- word2vec realization
+**notebook**-report
 
-Train dataset: link
+**results**-input and output data
 
-Test dataset: link
+**word2vec_script.py**- word2vec realization
+
+**Train dataset**: [link](http://cfrl.ruslang.ru/newspapers/rv/texts/rvm.txt)
+
+**Test dataset**: [link](https://www.kaggle.com/yutkin/corpus-of-russian-news-articles-from-lenta)
